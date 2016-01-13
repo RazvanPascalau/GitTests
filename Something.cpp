@@ -1,4 +1,4 @@
-#include <math>
+#include <functional>
 
 int main()
 {
