@@ -1,4 +1,4 @@
-#include <somethingha>
+#include <nothing>
 
 int main()
 {
